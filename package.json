@@ -1,0 +1,17 @@
+{
+  "name": "code-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "jshint": "^2.13.6",
+    "socket.io": "^4.5.4"
+  }
+}
